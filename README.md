@@ -24,7 +24,7 @@ THEN the saved events persist
 
 
 # Technologies Used
-JavaScript, HTML, dayjs, bootstrap
+JavaScript, HTML, CSS, dayjs, bootstrap
 
 
 # Usage
