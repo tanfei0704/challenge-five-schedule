@@ -36,4 +36,7 @@ JavaScript, HTML, CSS, dayjs, bootstrap
 
 Or you can directly copy& paste link "https://tanfei0704.github.io/challenge-five-schedule/" on your broswer.
 
+<img width="1350" alt="Screenshot 2023-09-27 at 11 28 14 PM" src="https://github.com/tanfei0704/challenge-five-schedule/assets/139478983/af3d6a52-f8ef-49ea-80bd-4e4fd943655c">
+
+
 
