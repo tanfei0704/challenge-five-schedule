@@ -34,4 +34,6 @@ JavaScript, HTML, CSS, dayjs, bootstrap
 3.open index.html file;
 4.right click on mouse to look through on default broswer;
 
-Or you can directly copy& paste link  " on your broswer.
+Or you can directly copy& paste link "https://tanfei0704.github.io/challenge-five-schedule/" on your broswer.
+
+
